@@ -2,7 +2,7 @@
 
 See files for my Klipper Configs.
 
-Current changes to stock:
+Current changes to my stock Ender 5 Plus:
 
 * Raspberry Pi 3
 * BigTreeTech SKR 2 with TMC2209 steppers
