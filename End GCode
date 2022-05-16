@@ -1,0 +1,13 @@
+; This is my end-gcode when using Super Slicer: https://github.com/supermerill/SuperSlicer
+; As always, use with caution and understand what each line does before applying
+
+M117 Moving out of the way
+{if max_layer_z < max_print_height}G1 Z{z_offset+min(max_layer_z+2, max_print_height)} F600{endif} ; Move print bed down
+G1 X50 Y300 F{travel_speed*60} ; move print head out of the way
+M117 Cooling
+M140 S0 ; turn off heatbed
+M104 S0 ; turn off temperature
+M107 ; turn off fan
+M117 Done
+M84 X Y E ; disable motors
+M117
