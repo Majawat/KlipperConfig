@@ -6,6 +6,7 @@ Current changes to my stock Ender 5 Plus:
 
 * Raspberry Pi 3 B+
 * BigTreeTech SKR 2 with TMC2209 steppers
+* Micro Swiss NG™ REVO Direct Drive Extruder for Creality Ender 5 / 5 Pro / 5 Plus - https://store.micro-swiss.com/products/micro-swiss-ng-revo-direct-drive-extruder-for-creality-ender-5
 * Authentic Creality Aluminum Extruder Upgrade Kit - https://smile.amazon.com/gp/product/B07ZMFP2L8
 * Hotend Fan replacement: OD4010-24HB - https://www.digikey.com/en/products/detail/OD4010-24HB/1053-1208-ND/2621113
 * BIGTREETECH PITFT50 V2.0 screen - https://smile.amazon.com/gp/product/B08F1WMQ1J
