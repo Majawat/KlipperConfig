@@ -10,5 +10,5 @@ M104 S0 ; turn off temperature
 M107 ; turn off fan
 M117 Done
 M84 X Y E ; disable motors
-SET_LED LED=my_neopixel RED=0.0 GREEN=0.0 BLUE=0.0 WHITE=0.0
+SET_LED LED=caselights RED=0.0 GREEN=0.0 BLUE=0.0 WHITE=0.0
 M117
