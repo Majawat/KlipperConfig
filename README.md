@@ -5,7 +5,7 @@ See files for my Klipper Configs. Current changes to my stock Ender 5 Plus.
 ## Hardware
 
 * Klipper Host: Raspberry Pi 3 B+
-* Mainboard: BigTreeTech SKR 2 with TMC2209 steppers
+* Mainboard: BigTreeTech SKR 2 with TMC2209 steppers - https://www.amazon.com/gp/product/B082QYYFVX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 * Hotend: Micro Swiss NG™ REVO Direct Drive Extruder for Creality Ender 5 / 5 Pro / 5 Plus - https://store.micro-swiss.com/products/micro-swiss-ng-revo-direct-drive-extruder-for-creality-ender-5
 * Extruder: Authentic Creality Aluminum Extruder Upgrade Kit - https://smile.amazon.com/gp/product/B07ZMFP2L8
 * Hotend Fan replacement: OD4010-24HB - https://www.digikey.com/en/products/detail/OD4010-24HB/1053-1208-ND/2621113
