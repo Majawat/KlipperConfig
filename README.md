@@ -17,7 +17,11 @@ See files for my Klipper Configs. Current changes to my stock Ender 5 Plus.
 
 ## Software
 
-- Interface: Fluidd - https://docs.fluidd.xyz/
-- Mainsail - https://moonraker.readthedocs.io/en/latest/
+- Installer: Kiauh - https://github.com/dw-0/kiauh
 - Firmware: Klipper - https://www.klipper3d.org/
+- Web API: Moonraker - https://moonraker.readthedocs.io/en/latest/
+- Web Interface: Fluidd - https://docs.fluidd.xyz/
+- Camera: Crowsnest - https://github.com/mainsail-crew/crowsnest
 - Screen: Klipperscreen - https://klipperscreen.readthedocs.io/en/latest/
+
+- Slicer: Prusaslicer - https://www.prusa3d.com/en/page/prusaslicer_424/
