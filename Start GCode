@@ -4,7 +4,6 @@
 ; Here's someone else's example: https://www.reddit.com/r/klippers/comments/sr2xws/klipper_start_gcode_for_slicers/hwrlvqv/
 ; I don't do this, but not for any particular reason.
 
-
 G90 ; use absolute coordinates
 M83 ; extruder relative mode
 
