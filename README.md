@@ -14,6 +14,7 @@ See files for my Klipper Configs. Current changes to my stock Ender 5 Plus.
 - Bed: TH3D EZFlex² 376x370mm - https://www.th3dstudio.com/product/ezflex2-flexible-print-system/
 - Bed springs: FYSETC Ender 5 Plus Bed Columns - https://smile.amazon.com/gp/product/B07MR7Q986
 - Case: OmniBox - https://jon-harper.github.io/OmniBox/latest/
+- Camera: Logitech C910 (USB)
 
 ## Software
 
